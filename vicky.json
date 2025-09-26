@@ -1,0 +1,497 @@
+[
+  {
+    "id": "1391",
+    "title": "Abp Ananda",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ananda.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8",
+    "license_url": "",
+    "user_agent": "",
+    "cookie": ""
+  },
+  {
+    "id": "0-9-24ghantatv",
+    "title": "Zee 24 Ghanta",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",
+    "stream_url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105511/ZEE24GHANTAELE/master.m3u8?hdntl=exp=1757037149~acl=%2f*~data=hdntl~hmac=699af192eeea0f09677c184a4852790bec660005a9187a367be775527e90ab35",
+    "license_url": "",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "cookie": "hdntl=exp=1757037149~acl=%2f*~data=hdntl~hmac=699af192eeea0f09677c184a4852790bec660005a9187a367be775527e90ab35"
+  },
+  {
+    "id": "1735",
+    "title": "TV9 Bangla",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Bangla.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/TV9_Bangla_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=b9e6a85e0304571a8c1ad3a6fe779828&key=ebec20d14dbb70d46c4157e560874b3b",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "687",
+    "title": "News Time TV",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Time_TV.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/News_Time_TV_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=7048262f11e55561a9a81d29f06663ba&key=b8c5cacc292a0c04fb5850f8482c672d",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "717",
+    "title": "News18 Bangla News",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Bangla_News_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=976b5fb0419b54929085f58d32ccf893&key=f5cbc24bcfba9ab4258e795660135415",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1264",
+    "title": "Kolkata TV",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Kolkata_TV.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kolkata_TV_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=6276561f80055244831684aa6279843b&key=174bbda82670eca1b8702488f77a181a",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "r-bangla",
+    "title": "Republic Bangla",
+    "logo_url": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/R-Bangla-red.png",
+    "stream_url": "https://live.drmlive-02.workers.dev/yupptv/fta/republic-bangla.m3u8",
+    "license_url": "",
+    "user_agent": "",
+    "cookie": ""
+  },
+  {
+    "id": "204",
+    "title": "DD Sports",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Sports_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=0c1b139b9a955134a1efae8e44b63aac&key=00897bffd6997049787270797b8c3a17",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "sony-ten-1-hd",
+    "title": "Sony Sports Ten 1 HD",
+    "logo_url": "https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png",
+    "stream_url": "https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8",
+    "license_url": "",
+    "user_agent": "",
+    "cookie": ""
+  },
+  {
+    "id": "sony-ten-1-hd",
+    "title": "Sony Sports Ten 1 HD",
+    "logo_url": "https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png",
+    "stream_url": "https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8",
+    "license_url": "",
+    "user_agent": "",
+    "cookie": ""
+  },
+  {
+    "id": "sony-ten-1-hd",
+    "title": "Sony Sports Ten 1 HD",
+    "logo_url": "https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png",
+    "stream_url": "https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8",
+    "license_url": "",
+    "user_agent": "",
+    "cookie": ""
+  },
+  {
+    "id": "sony-ten-2-hd",
+    "title": "Sony Sports Ten 2 HD",
+    "logo_url": "https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png",
+    "stream_url": "https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8",
+    "license_url": "",
+    "user_agent": "",
+    "cookie": ""
+  },
+  {
+    "id": "sony-ten-3-hd",
+    "title": "Sony Sports Ten 3 HD",
+    "logo_url": "https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png",
+    "stream_url": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8",
+    "license_url": "",
+    "user_agent": "",
+    "cookie": ""
+  },
+  {
+    "id": "sony-ten-4-hd",
+    "title": "Sony Sports Ten 4 HD",
+    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+    "stream_url": "https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8",
+    "license_url": "",
+    "user_agent": "",
+    "cookie": ""
+  },
+  {
+    "id": "sony-ten-5-hd",
+    "title": "Sony Sports Ten 5 HD",
+    "logo_url": "https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png",
+    "stream_url": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8",
+    "license_url": "",
+    "user_agent": "",
+    "cookie": ""
+  },
+  {
+    "id": "1142",
+    "title": "Star Sports 1",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=df20894ec30954d3b28097c138f4cfda&key=ff9b6292b1cddbd11a046029cb314634",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1141",
+    "title": "Star Sports 2",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_2.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=fc3aafe80845584199a637249fad2ffa&key=ca4474972fdb4bf8ecb164482853c692",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "173",
+    "title": "Star Sports 1 Hindi HD",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=609ace1518f15ee2bcee407f5e435fed&key=533464a6d57d3e40b61b8fa8c4fe6627",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1123",
+    "title": "Star Sports Select 1",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=ea7985dacbb95f1c9d62e5a1675142e5&key=39d5910ca04841b5f32bf24623cdae58",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "300",
+    "title": "Star Sports Select 1 HD",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_HD_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=c2c048e439d65316beeda6ef64d5d0f8&key=e2fdc132cbdee65501b845ce414fce39",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1114",
+    "title": "Star Sports Select 2",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=ec7d009d07aa5cbc81a441880530dfa5&key=8147983ad7402ebfc222d28b667a196f",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "301",
+    "title": "Star Sports Select 2 HD",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=6017d0514d425fa38f6e80ba6dcc852f&key=0018944b00adf2078f62386f30c68b74",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1373",
+    "title": "Disney Channel",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=5181d3e6698055578cedc5bfc86b3e56&key=3dca7917d8cf9bb7095dc72b48bdcd3c",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1391",
+    "title": "Hungama",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Hungama_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=454f8353caac500d95d641e0c7cfe048&key=0aaca46ea0f5096335598781fbe590e4",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "559",
+    "title": "Pogo Hindi",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Pogo_Hindi_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=4b967f351139503a88b1d1945203150b&key=c3e26279cc513e13154958f934141dc0",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "816",
+    "title": "Cartoon Network Hindi",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=ea48cf7b24dd54dd98c369626b9ad105&key=ee5778d627dfae2c2affc02d76e8db6c",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "545",
+    "title": "Nick Hindi",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Hindi_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=2fc128a8dcc751829ec7ed9c678ecb6f&key=95f49d83ad11868e15e64baf5dec62ac",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "156",
+    "title": "Star Gold HD",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=ec7ad3786d9e5efa9e0c4aeb3e58c7b7&key=907509ccae7e68b30ae75b5d09fe60ef",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1151",
+    "title": "Star Gold Romance",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Romance_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=ee6e9f18a6c155e3855700b34fa8436f&key=b670c81b0e4f7f19f1fbeac0eaa7fba8",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1153",
+    "title": "Star Gold Thrills",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=189ccd629ff25ec1adc2e34d49b186eb&key=fd102ddbd3844b55b70c6aa23dbd212b",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1155",
+    "title": "Star Gold 2 HD",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=e6afa4754bc15dd28ab6806f417d319d&key=6a74ef2884813547109ee96098610387",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1113",
+    "title": "Star Gold Select HD",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=2cb38dd5e6235bd9936ad7a29bc7ffd8&key=281d7b329be4e22d4e0e3e1d508ba2a4",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1120",
+    "title": "Jalsha Movies",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Jalsha_Movies.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jalsha_Movies_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=940a0a4080f553cab03ec23a2e80cf7c&key=b162354170b54cb588182eb75681cac0",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1369",
+    "title": "Colors Bangla SD",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bangla_SD_MOB/WDVLive/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=4b4ea22699965dcfa9883cb7994d7202&key=9107a849f44403873bffedac6a6cabdc",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1657",
+    "title": "Colors Bangla Cinema",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bangla_Cinema_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=6f7b7241b2935a909d389fe318e5baaa&key=65783311644973348f359dc154bb41db",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1450",
+    "title": "Colors Cineplex Superhit",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Rishtey_Cineplex_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=234f3bf300e75c93a3825d54b1c0520b&key=53a4b6981fb1872c0ad4d197066e8c1f",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1763",
+    "title": "Colors Cineplex Bollywood",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_Bollywood_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=061b3f55b6695e978b208f5117e609ee&key=9a6da304db8cfb545805d3152a5d66ed",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1477",
+    "title": "Colors Cineplex HD",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_HD_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=b9d4acedc66c5660a1e06197a55bccd2&key=dd53bab1a42f41ae8f0a5c8fd286f456",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "463",
+    "title": "Discovery HD World",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_HD_World_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=ce16454b1fc85beab2f807af176046bb&key=ff67cca83c770daa6dc9c295cc76564f",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "286",
+    "title": "Animal Planet HD World",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Animal_Planet_HD_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=2e5b244dece4589e8cb63c3f78599b8b&key=d0bf0aea980e46b12a38f8004505e2fe",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "566",
+    "title": "Animal Planet Hindi",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Animal_Planet_Hindi_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=ead5a173062a584c85fcdfcfdda3ddf5&key=4c799a57db355c7cdfbdbf2ad39ec7fe",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "575",
+    "title": "Discovery Channel Hindi",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Hindi_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=e7de2a4993765d2cb71d07dfcb9c4c55&key=67a3c25d5e236c1caea9c9b312a40dd3",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1120",
+    "title": "Star Jalsha HD",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=7810c0264da15a62b200a3254d041aed&key=cb1e3bcfcdb1281b85625b12dae6de43",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1120",
+    "title": "Star Jalsha Movies HD",
+    "logo_url": "https://raw.githubusercontent.com/br8828982/M3U/refs/heads/main/pngwing.com.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=336cae9ff0c957cfabc598f4faf7e701&key=24b00e0fec8785b474f544560dfec897",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "756",
+    "title": "Colors Bengali HD",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bengali_HD_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=79e4ad38e4265035877e9a7d51e08594&key=82ceadac512c10e1df711eb743e099ae",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "sony-aath",
+    "title": "Sony Aath",
+    "logo_url": "https://i.postimg.cc/bY12WVTm/SONY-AATH.png",
+    "stream_url": "https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8",
+    "license_url": "",
+    "user_agent": "",
+    "cookie": ""
+  },
+  {
+    "id": "sony-max-hd",
+    "title": "Sony MAX HD",
+    "logo_url": "https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png",
+    "stream_url": "https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8",
+    "license_url": "",
+    "user_agent": "",
+    "cookie": ""
+  },
+  {
+    "id": "sony-max-2",
+    "title": "Sony MAX 2",
+    "logo_url": "https://raw.githubusercontent.com/br8828982/M3U/refs/heads/main/Sony_MAX2.png",
+    "stream_url": "https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8",
+    "license_url": "",
+    "user_agent": "",
+    "cookie": ""
+  },
+  {
+    "id": "0-9-zeecinemahd",
+    "title": "Zee Cinema HD",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
+    "stream_url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1757037149~acl=%2f*~data=hdntl~hmac=699af192eeea0f09677c184a4852790bec660005a9187a367be775527e90ab35",
+    "license_url": "",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "cookie": "hdntl=exp=1757037149~acl=%2f*~data=hdntl~hmac=699af192eeea0f09677c184a4852790bec660005a9187a367be775527e90ab35"
+  },
+  {
+    "id": "0-9-zeebanglacinema",
+    "title": "Zee Bangla Cinema",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
+    "stream_url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1757037149~acl=%2f*~data=hdntl~hmac=699af192eeea0f09677c184a4852790bec660005a9187a367be775527e90ab35",
+    "license_url": "",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "cookie": "hdntl=exp=1757037149~acl=%2f*~data=hdntl~hmac=699af192eeea0f09677c184a4852790bec660005a9187a367be775527e90ab35"
+  },
+  {
+    "id": "0-9-zeebangla",
+    "title": "Zee Bangla HD",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+    "stream_url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1757037149~acl=%2f*~data=hdntl~hmac=699af192eeea0f09677c184a4852790bec660005a9187a367be775527e90ab35",
+    "license_url": "",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "cookie": "hdntl=exp=1757037149~acl=%2f*~data=hdntl~hmac=699af192eeea0f09677c184a4852790bec660005a9187a367be775527e90ab35"
+  },
+  {
+    "id": "0-9-tvpictureshd",
+    "title": "&Pictures HD",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",
+    "stream_url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?hdntl=exp=1757037149~acl=%2f*~data=hdntl~hmac=699af192eeea0f09677c184a4852790bec660005a9187a367be775527e90ab35",
+    "license_url": "",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "cookie": "hdntl=exp=1757037149~acl=%2f*~data=hdntl~hmac=699af192eeea0f09677c184a4852790bec660005a9187a367be775527e90ab35"
+  },
+  {
+    "id": "moviesnow-hd",
+    "title": "Movies Now HD",
+    "logo_url": "https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg",
+    "stream_url": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=40f019b86241d23ef075633fd7f1e927&key=058dec845bd340178a388edd104a015e",
+    "user_agent": "",
+    "cookie": ""
+  },
+  {
+    "id": "740",
+    "title": "Sangeet Bangla",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sangeet_Bangla_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=a8e11fcb823e5568a54beb47e1a2987b&key=074aa39817dd2b8719fb94b063b1560b",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  },
+  {
+    "id": "1145",
+    "title": "MTV HD Plus",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_HD_Plus_BTS/output/index.mpd?__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed&xxx=%7Ccookie=__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed",
+    "license_url": "https://clkey.vercel.app/api/results.php?keyid=90d8713ba5e85d779d005b1f14a5bc8d&key=33650314fe1e945017640ba9878c5de9",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+    "cookie": "__hdnea__=st=1756984722~exp=1757071122~acl=/*~hmac=69601a954fd784bb6d77f61a7507c98e7a2af1e106382190c8dc32725e44aeed"
+  }
+]
