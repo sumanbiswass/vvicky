@@ -486,6 +486,16 @@
     "cookie": "__hdnea__=st=1758933581~exp=1759019981~acl=/*~hmac=974ce23085b50194699326e1815b697d0023aacd6a259be308f8f473ae475e6e"
   },
   {
+  "id": "your-id",
+  "title": "Star Jalsha Movies HD",
+  "logo_url": "https://your-logo-url.png",
+  "stream_url": "https://your-stream-url.mpd",
+  "license_type": "clearkey",
+  "license_key": "KEY_ID:KEY",
+  "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+  "cookie": "__hdnea__=st=1758933581~exp=1759019981~acl=/*~hmac=974ce23085b50194699326e1815b697d0023aacd6a259be308f8f473ae475e6e"
+  },
+  {
     "id": "1145",
     "title": "MTV HD Plus",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",
